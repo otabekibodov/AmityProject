@@ -1,3 +1,6 @@
+""" 
+Iterating through functions
+"""
 entrance = 0
 UI = "1. Login\n2.search for tools\n3.create new account\n4.exit"
 while entrance <= 4:
